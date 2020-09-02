@@ -13,5 +13,5 @@ src="https://img.shields.io/badge/Angular -FF0000" />
 
 
 ## Get connected:
-<a href="www.pranjals.live"><img src="https://img.shields.io/badge/🔽Portfolio-we"/></a>
-<a href="www.linkedin.com/in/pranjalmisra12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.pranjals.live"><img src="https://img.shields.io/badge/🔽Portfolio-we"/></a>
+<a href="https://www.linkedin.com/in/pranjalmisra12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
