@@ -14,8 +14,8 @@ src="https://img.shields.io/badge/Angular -FF0000" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-dev-byte&hide=makefile,perl&theme=dark)
 
 
-![Hits](https://profile-counter.glitch.me/pranjal-dev-byte/count.svg)
-
 ## Get connected:
 <a href="https://www.pranjals.live"><img src="https://img.shields.io/badge/🔽Portfolio-we"/></a>
 <a href="https://www.linkedin.com/in/pranjalmisra12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+![Hits](https://profile-counter.glitch.me/pranjal-dev-byte/count.svg)
