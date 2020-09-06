@@ -23,7 +23,7 @@ Hi, I am Pranjal Misra, a passionate full stack developer from India.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-dev-byte&hide=makefile,perl&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-dev-byte&hide=makefile,perl&theme=light)
 
 
 ## Get connected:
