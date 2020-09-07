@@ -26,7 +26,8 @@ Hi, I am Pranjal Misra, a passionate full stack developer from India.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-dev-byte&hide=makefile,perl&theme=light)
 
 
-## Get connected:
+## Connect with me:
+
 <a href="https://www.pranjals.live"><img src="https://img.shields.io/badge/🔽Portfolio-we"/></a>
 <a href="https://www.linkedin.com/in/pranjalmisra12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
